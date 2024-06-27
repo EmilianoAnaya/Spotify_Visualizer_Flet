@@ -30,8 +30,7 @@ https://localhost:8888/callback
 
 7.- The Setup.bat will open up with a terminal and the Interface where you are gonna paste and submit your Credentials. 
 
-![image](https://github.com/EmilianoAnaya/Spotify-Visualizer/assets/150195114/06467e07-bddc-428d-932b-6caea5a6fc90)
-
+![image](https://github.com/EmilianoAnaya/Spotify_Flet/assets/150195114/600446e9-9ee3-4187-8228-e20ac0f5a080)
 
 8.- Once you have entered your credentials, your browser will redirect you to Spotify so you can authenticate your account, then you will be redirected to a new page that will not load, copy the link to the new page and paste it into the terminal when prompted.
 
