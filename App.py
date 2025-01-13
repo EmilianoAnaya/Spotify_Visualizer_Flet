@@ -26,13 +26,13 @@ class Spotify_Visualizer:
         self.page.window.resizable = False
         self.page.window.maximizable = False
         self.page.window.frameless = True
-        self.page.window.bgcolor = ft.colors.TRANSPARENT
-        self.page.bgcolor = ft.colors.TRANSPARENT 
+        self.page.window.bgcolor = ft.Colors.TRANSPARENT
+        self.page.bgcolor = ft.Colors.TRANSPARENT 
         self.page.window.prevent_close = True
         self.page.window.on_event=self.window_event
 
         self.dark_background = ft.Container(
-            bgcolor=ft.colors.BLACK,
+            bgcolor=ft.Colors.BLACK,
             opacity=0.6,
         )
         
